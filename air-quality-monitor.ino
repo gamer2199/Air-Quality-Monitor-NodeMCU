@@ -4,9 +4,9 @@
 
 #define DHT_PIN_DATA  D1
 
-String apiWritekey = "UJIRZDH74DH6DX8U"; // THINGSPEAK WRITEAPI KEY
-const char* ssid = "Hotspot"; // SSID
-const char* password = "pass1234";// PASSWORD
+String apiWritekey = ""; // THINGSPEAK WRITEAPI KEY
+const char* ssid = ""; // SSID
+const char* password = "";// PASSWORD
  
 const char* server = "api.thingspeak.com";
 int sensorData;
