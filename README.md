@@ -3,9 +3,9 @@ An Air Quality Monitor with MQ135 and NodeMCU
 
 Data is uploaded to ThingSpeak and also shown on a connected 16x2 LCD.
 
-#### Connections:
+### Connections:
 
-###### MQ135:
+#### MQ135:
 
 AOUT (or A0)===> A0 of NodeMCU
 
@@ -13,7 +13,7 @@ VCC ==> Vin
 
 GND ==> GND
 
-###### LCD:
+#### LCD:
 
 VSS ==> GND
 
